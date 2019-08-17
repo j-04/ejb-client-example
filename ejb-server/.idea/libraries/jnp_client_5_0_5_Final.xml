@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jnp-client-5.0.5.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/lib/jnp-client-5.0.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
